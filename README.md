@@ -18,7 +18,4 @@ This project concentrates on solving a unsolved Rubik's Cube. The program contai
 	$ python3 main.py
 	```
 	
-Click below for a sample VIDEO:
 
-
-[![Watch the video](https://img.youtube.com/vi/7dYNsFPmbRQ/sddefault.jpg)](https://youtu.be/7dYNsFPmbRQ)
